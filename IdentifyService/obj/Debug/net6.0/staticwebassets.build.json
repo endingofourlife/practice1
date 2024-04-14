@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MotFl495pdAH53KyqP538unjn3nZmEIG9CZMr1nKVYU=",
+  "Source": "IdentifyService",
+  "BasePath": "_content/IdentifyService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
